@@ -3,3 +3,5 @@ git add shell.pdf
 git commit -m "message"
 git push 
 git pull
+git branch add-create-branch-command
+git checkout add-create-branch-command
