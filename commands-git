@@ -1,0 +1,4 @@
+git clone https://github.com/hugo-esquer/git-begins.git
+git add shell.pdf
+git commit -m "message"
+git push 
